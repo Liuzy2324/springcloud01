@@ -1,1 +1,6 @@
-
+config:
+  info: "dev profile, version=1.0"
+  db:
+    host: localhost
+    port: 3306
+    name: config_dev_db
