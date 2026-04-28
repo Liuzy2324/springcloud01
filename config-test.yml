@@ -1,1 +1,6 @@
-
+config:
+  info: "test profile, version=1.0"
+  db:
+    host: test-server
+    port: 3306
+    name: config_test_db
